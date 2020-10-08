@@ -1,26 +1,3 @@
-CS 666: Advanced Distributed Systems
-Lab Assignment – Distributed File System
-30th September 2020
-------------------------------------------------------------------------------------------------------------------------
-Submitted by:
-1.	Nishchita Ajit (Red ID: 825864605)
-2.	Fenikumari Kiritbhai Depani (Red ID: 825856658)
-------------------------------------------------------------------------------------------------------------------------
-Group members – Nishchita Ajit and Fenikumari Kiritbhai Depani
-
-Task distribution (Task numbers as mentioned in assignment)
-Nishchita Ajit
-1.	Directory operations
-2.	Client-Server setup
-3.	Sequential get and put operations
-
-Fenikumari Kiritbhai Depani
-5.	Filter for filecount and ls
-
-Fenikumari and Nishchita
-4.	Random read operation
-------------------------------------------------------------------------------------------------------------------------
-
 Steps to run the code
 1.	The client and server programs are to be run on two separate machines as the sequential operations require the
     creation of the same name files if the second input parameter is not given by the user.
