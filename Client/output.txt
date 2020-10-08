@@ -1,0 +1,43 @@
+getdir succeeded with /Users/nishchitaajit/IdeaProjects/DistributedFileSytemServer/src
+./
+../
+randomread.txt
+get.txt
+com/
+160	  Wed 30 23:10:37 PDT 2020	  ./
+224	  Wed 30 22:46:02 PDT 2020	  ../
+11	  Wed 30 19:45:01 PDT 2020	  randomread.txt
+1597	  Wed 30 21:54:33 PDT 2020	  get.txt
+96	  Wed 30 22:44:01 PDT 2020	  com/
+./
+./
+sdsu/
+160	  Wed 30 23:10:37 PDT 2020	  ./
+160	  Wed 30 23:10:37 PDT 2020	  ./
+768	  Wed 30 22:47:59 PDT 2020	  sdsu/
+cd succeeded
+getdir succeeded with /Users/nishchitaajit/IdeaProjects/DistributedFileSytemServer/src/com
+./
+../
+sdsu/
+96	  Wed 30 22:44:01 PDT 2020	  ./
+160	  Wed 30 23:10:37 PDT 2020	  ../
+768	  Wed 30 22:47:59 PDT 2020	  sdsu/
+cd succeeded
+getdir succeeded with /Users/nishchitaajit/IdeaProjects/DistributedFileSytemServer/src
+filecount succeeded with 3
+filecount succeeded with count of 1
+filecount succeeded with count of 2
+filecount succeeded with count of 1
+get.txt 
+src/ 
+DistributedFileSytemServer/ 
+randomread.txt 
+com/ 
+com/ 
+randomread succeeded transferring 5
+world
+get succeeded transferring 1596
+put succeeded transferring 936
+get succeeded transferring 1596
+put succeeded transferring 936

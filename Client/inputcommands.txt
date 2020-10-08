@@ -1,0 +1,23 @@
+getdir
+ls
+ls -l
+ls com
+ls -l com
+cd com
+getdir
+ls
+ls -l
+cd ..
+getdir
+filecount
+filecount size>400
+filecount size<350
+filecount size=96
+ls size>400
+ls size<350
+ls size=96
+randomread randomread.txt 6 5
+get get.txt getclient.txt
+put put.txt remoteput.txt
+get get.txt
+put put.txt
